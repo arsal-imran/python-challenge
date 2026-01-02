@@ -2,7 +2,7 @@
 ---
 > I'm relapsing python to land in to programming again.
 
-| Syntax      | Description |
+| Day      | Activity |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| 1      | Hello World      |
+| 2   | Revisting Python Basics      |
